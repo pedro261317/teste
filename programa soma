@@ -1,0 +1,12 @@
+#include <iostream>
+#include <math.h>
+using namespace std;
+int main()
+{
+	int num1,num2,tot;
+	cout<<"digite o primeiro numero";
+	cin>>num1;
+	cout<<"Digite o segundo numero ";
+	cin>>num2;
+	cout<<" A soma dos dois numeros digitados e " <<num1+num2;
+}
